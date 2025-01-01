@@ -93,19 +93,19 @@
     </div>
     <div class="row">
       <div class="col-4">
-        <img src="../assets/img/tjkt.jpeg" class="rounded" alt="...">TEKNIK JARINGAN KOMPUTER & TELEKOMONIKASI
+        <img src="../assets/img/tjkt.jpeg" class="rounded" alt="..."><h6 class="text-center">TEKNIK JARINGAN KOMPUTER & TELEKOMONIKASI</h6>
       </div>
       <div class="col-4">
-        <img src="../assets/img/pplg.jpeg" class="rounded" alt="...">PENGEMBANGAN PERANGKAT LUNAK DAN GIM
+        <img src="../assets/img/pplg.jpeg" class="rounded" alt="..."><h6 class="text-center">PENGEMBANGAN PERANGKAT LUNAK DAN GIM</h6>
       </div>
       <div class="col-4">
-        <img src="../assets/img/tbsm.jpeg" class="rounded" alt="...">TEKNIK BISNIS SEPEDA MOTOR
+        <img src="../assets/img/tbsm.jpeg" class="rounded" alt="..."><h6 class="text-center">TEKNIK BISNIS SEPEDA MOTOR</h6>
       </div>
       <div class="col-4">
-        <img src="../assets/img/dkv.jpeg" class="rounded" alt="...">DESAIN KOMUNIKASI VISUAL
+        <img src="../assets/img/dkv.jpeg" class="rounded" alt="..."><h6 class="text-center">DESAIN KOMUNIKASI VISUAL</h6>
       </div>
       <div class="col-4">
-        <img src="../assets/img/toi.jpeg" class="rounded" alt="...">TEKNIK OTOMASI INDUSTRI
+        <img src="../assets/img/toi.jpeg" class="rounded" alt="..."><h6 class="text-center">TEKNIK OTOMASI INDUSTRI</h6>
       </div>
     </div>
     <div class="teacher m-5 text-center">
@@ -145,3 +145,6 @@ img {
 
 }
 </style>
+<script setup>
+useHead({ title: "Home" })
+</script>

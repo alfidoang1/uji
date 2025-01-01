@@ -20,6 +20,7 @@ img {
 }
 </style>
 <script setup>
+useHead({ title: "Ektrakulikuler" })
 const supabase = useSupabaseClient()
 const eskul = ref([])
 

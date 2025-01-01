@@ -1,12 +1,12 @@
 <template>
     <div class="container-fluid pt-5">
         <div class="visi pt-5 text-center">
-            <h1>Visi & Misi SMK Negeri 4 Tasikmalaya</h1>
+            <h1>VISI & MISI SMKN 4 TASIKMALAYA</h1>
             <hr>
-            <h3>Visi :</h3>
+            <h3>VISI :</h3>
             <p> TERWUJUDNYA LULUSAN YANG CERDAS, AKTIF, KOMPETITIF, ADAPTIF, DAN
                 PRODUKTIF BERLANDASKAN IMAN DAN TAKWA (CAKAP BERIMTAK)</p>
-            <h3>Misi :</h3>
+            <h3>MISI :</h3>
             <p> Menyiapkan Sumber Daya Manusia yang cerdas dan kompeten baik hardskill
                 maupun softskill. Meningkatkan dan mengembangkan aktifitas serta
                 kreatifitas seluruh warga sekolah dalam berbagai kegiatan positif.
@@ -27,3 +27,6 @@
         </div>
     </div>
 </template>
+<script setup>
+useHead({ title: "Visi & Misi" })
+</script>

@@ -17,6 +17,7 @@ img {
 }
 </style>
 <script setup>
+useHead({ title: "Galeri" })
 const supabase = useSupabaseClient()
 const galeri = ref([])
 

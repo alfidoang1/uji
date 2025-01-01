@@ -41,7 +41,10 @@
     </div>
 </template>
 <style scoped>
-.judul-sejarah{
+.judul-sejarah {
     padding-top: 200px;
 }
 </style>
+<script setup>
+useHead({ title: "Sejarah" })
+</script>
