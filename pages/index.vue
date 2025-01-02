@@ -38,7 +38,7 @@
           <img src="../assets/img/gru.jpeg" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="../assets/img/DSC_7309.JPG" class="d-block w-100" alt="...">
+          <img src="../assets/img/DSC_7309.png" class="d-block w-100" alt="...">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching"
