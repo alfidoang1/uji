@@ -4,9 +4,6 @@
             <div class="judul-sejarah  pt-5">
                 <h1 class="pt-5 text-center">SEJARAH SMKN 4 TASIKMALYA</h1>
                 <hr>
-                <div class="card-body"></div>
-                <img src="../assets/img/kpl.png" alt="" style="width: 100%;">
-            </div>
             <div class="sejarah">
                 Sejalan dengan Program Pemerintah dibidang pendidikan Menengah Kejuruan pada saat itu yakni
                 pemerataan
